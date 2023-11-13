@@ -1,0 +1,34 @@
+{
+    "name": "UIcontroller",
+    "maps": [
+        {
+            "name": "Pause",
+            "id": "d653d60a-ac4c-4539-904e-94f1e70f9ffb",
+            "actions": [
+                {
+                    "name": "esc",
+                    "type": "Button",
+                    "id": "ab848f34-d916-437f-9576-cbd2fa3ad155",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "e25191ce-8efc-41b0-9a34-5230eeaa322a",
+                    "path": "<Keyboard>/escape",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "esc",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        }
+    ],
+    "controlSchemes": []
+}
